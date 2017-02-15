@@ -37,6 +37,7 @@
 #### Section 2: Build and Launch a Quick and Free Custom Website for Your Business
   1. Basic Concepts:
     1. HTML, CSS and JavaScript
+    2. HTML tags and CSS rule sets
       1. Tags look like this: `<html> </html>`
       2. There are all kinds of tags. Some common tags are below:
         1. `<html> </html>`
@@ -44,7 +45,19 @@
         3. `<body> </body>`
         4. `<div> </div>`
       3. Tags usually work in pairs with an opening tag `<body> and a closing tag </body>`
-    2. HTML tags and CSS rule sets
+      4. Your content goes in between the opening and closing tags: `<h1>I am Content</h1>`
+      5. CSS rule-sets look like this: `body {background-color: green}`
+      6. Each rule-set includes a selector and a declaration
+      7. Each declaration includes a property and a value
   2. Instructions:
-    1. Step 1 - Create a new GitHub repository 
+    1. Step 1 - Create a new GitHub repository
+    2. Step 2 - Click on the "Create new file" button
+    3. Step 3 - Name the file index.html
+    4. Step 4 - In the code editor window add a set of html tags. Your tags should look like this:
+    ```<html>
+    
+       </html>
+       ```
+    5. Step 5 
+    
   
