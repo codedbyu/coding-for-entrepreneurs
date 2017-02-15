@@ -27,5 +27,7 @@
 ## Part 2 - Hands-on
 #### Section 1: Coding Tools & Resources for Entrepreneurs
   1. [GitHub](https://github.com) 
+  2. [Codio](https://codio.com)
+  3. [DNSimple](https://dnsimple.com/)or [namecheap] (https://www.namecheap.com)
   
 #### Section 2: Build and Launch a Quick and Free Custom Website for Your Business
