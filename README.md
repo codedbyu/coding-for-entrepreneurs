@@ -27,7 +27,12 @@
 ## Part 2 - Hands-on
 #### Section 1: Coding Tools & Resources for Entrepreneurs
   1. [GitHub](https://github.com) 
-  2. [Codio](https://codio.com)
-  3. [DNSimple](https://dnsimple.com/)or [namecheap] (https://www.namecheap.com)
+  2. [Codio](https://codio.com), [Sublime Text](https://www.sublimetext.com/3) or [Atom](https://atom.io/)
+  3. [DNSimple](https://dnsimple.com/) or [namecheap] (https://www.namecheap.com)
+  4. [Web Design Inspiration](http://www.webdesign-inspiration.com/) or [Designspiration] (http://designspiration.net/)
+  5. [Bootstrapmade](https://bootstrapmade.com/), [Free CSS](http://www.free-css.com/free-css-templates) or [Themeforest](https://themeforest.net/)
+  6. [Pexels](https://www.pexels.com/) or [Photodune](https://photodune.net)
+  7. [Pixlr](https://pixlr.com/)
   
 #### Section 2: Build and Launch a Quick and Free Custom Website for Your Business
+  1. 
