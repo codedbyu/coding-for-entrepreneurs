@@ -19,11 +19,13 @@
   3. Be clear about how what you want meets your goals
   4. Be clear about your budget
   5. Know what else is on the market
-  6. Selecting the right developer
-  7. Sharing information
-  8. Managing the process
+  6. Developing an MVP
+  7. Selecting the right developer
+  8. Sharing information
+  9. Managing the process
 
 ## Part 2 - Hands-on
 #### Section 1: Coding Tools & Resources for Entrepreneurs
+  1. [GitHub](https://github.com) 
   
 #### Section 2: Build and Launch a Quick and Free Custom Website for Your Business
