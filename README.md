@@ -2,7 +2,7 @@
 
 ## Part 1 - Discussion
 #### Section 1: An Overview of Coding
-  **Basic Concepts**
+  #####Basic Concepts
   1. What is coding?
   2. Where do you find code?
   3. Who uses code?
