@@ -59,6 +59,27 @@
     
     </html>
     ```
-    * Step 5 
+    * Step 5 - In between your html tags add a set of head tags. Your tags should look like this:
     
+    ```html
+    <html>
+      <head>
+      
+      </head>
+    
+    </html>
+    ```
+    * Step 6 - Under your head tags add a set of body tags. Your tags should look like this:
+    
+    ```html
+    <html>
+      <head>
+      
+      </head>
+      <body>
+      
+      </body>
+    </html>
+    ```
+    * Step 7 - Under your head tags add a set of body tags. Your tags should look like this:
   
