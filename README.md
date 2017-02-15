@@ -54,10 +54,11 @@
     2. Step 2 - Click on the "Create new file" button
     3. Step 3 - Name the file index.html
     4. Step 4 - In the code editor window add a set of html tags. Your tags should look like this:
-    ```<html>
+    ```html
+    <html>
     
-       </html>
-       ```
+    </html>
+    ```
     5. Step 5 
     
   
