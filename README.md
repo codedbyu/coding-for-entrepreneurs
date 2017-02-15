@@ -50,15 +50,15 @@
       6. Each rule-set includes a selector and a declaration
       7. Each declaration includes a property and a value
   2. Instructions:
-    1. Step 1 - Create a new GitHub repository
-    2. Step 2 - Click on the "Create new file" button
-    3. Step 3 - Name the file index.html
-    4. Step 4 - In the code editor window add a set of html tags. Your tags should look like this:
+    * Step 1 - Create a new GitHub repository
+    * Step 2 - Click on the "Create new file" button
+    * Step 3 - Name the file index.html
+    * Step 4 - In the code editor window add a set of html tags. Your tags should look like this:
     ```html
     <html>
     
     </html>
     ```
-    5. Step 5 
+    * Step 5 
     
   
