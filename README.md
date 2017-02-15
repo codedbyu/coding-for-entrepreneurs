@@ -14,7 +14,8 @@
   3. Scale and Growth
 
 #### Section 3: What Entrepreneurs Need to Know to Get an App Built
-  1. 
+  1. Be clear about what you want
+  2. 
 
 ## Part 2 - Hands-on
 #### Section 1: Coding Tools & Resources for Entrepreneurs
