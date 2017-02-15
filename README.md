@@ -81,5 +81,16 @@
       </body>
     </html>
     ```
-    * Step 7 - Under your head tags add a set of body tags. Your tags should look like this:
+    * Step 7 - Inside of your body tags add a set of h1 tags and place content in between the h1 tags. Your tags should look like this:
   
+    ```html
+    <html>
+      <head>
+      
+      </head>
+      <body>
+        <h1>This is my content</h1>
+      </body>
+    </html>
+    ```  
+    
