@@ -38,6 +38,12 @@
   1. Basic Concepts:
     1. HTML, CSS and JavaScript
       1. Tags look like this: `<html> </html>`
+      2. There are all kinds of tags. Some common tags are below:
+        1. `<html> </html>`
+        2. `<head> </head>`
+        3. `<body> </body>`
+        4. `<div> </div>`
+      3. Tags usually work in pairs with an opening tag `<body> and a closing tag </body>`
     2. HTML tags and CSS rule sets
   2. Instructions:
     1. Step 1 - Create a new GitHub repository 
