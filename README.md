@@ -1,6 +1,3 @@
-# Coding for Entrepreneurs
-
-## Part 1 - Discussion
 #### Section 1: An Overview of Coding
   1. Basic terminology and concepts
   2. What is coding?
@@ -93,4 +90,7 @@
       </body>
     </html>
     ```  
-    
+    * Step 8 - Click on the green "Commit chnages" button at the bottom of the screen
+    * Step 9 - Clcik on the "Settings" tab and scroll down to the GitHub Pages section
+    * Step 10 - Click on the dropdown box under Source
+    * Step 11 - Select master branch and click save
