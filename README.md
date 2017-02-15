@@ -35,4 +35,10 @@
   7. [Pixlr](https://pixlr.com/)
   
 #### Section 2: Build and Launch a Quick and Free Custom Website for Your Business
-  1. 
+  1. Basic Concepts:
+    1. HTML, CSS and JavaScript
+      1. Tags look like this: `<html> </html>`
+    2. HTML tags and CSS rule sets
+  2. Instructions:
+    1. Step 1 - Create a new GitHub repository 
+  
