@@ -9,14 +9,21 @@
   5. Why is coding important?
 
 #### Section 2: How to Leverage Coding for Entrepreneurship
-  1. Marketing, PR and Operations
-  2. Product Delivery and Distribution
-  3. Scale and Growth
+  1. Marketing, PR and operations
+  2. Product delivery and distribution
+  3. Scale and growth
 
 #### Section 3: What Entrepreneurs Need to Know to Get an App Built
-  1. Be clear about what you want
-  2. 
+  1. Be clear about what your goals are
+  2. Be clear about what you want
+  3. Be clear about how what you want meets your goals
+  4. Be clear about your budget
+  5. Know what else is on the market
+  6. Selecting the right developer
+  7. Sharing information
+  8. Managing the process
 
 ## Part 2 - Hands-on
 #### Section 1: Coding Tools & Resources for Entrepreneurs
+  
 #### Section 2: Build and Launch a Quick and Free Custom Website for Your Business
