@@ -92,5 +92,13 @@
     ```  
     * Step 8 - Click on the green "Commit chnages" button at the bottom of the screen
     * Step 9 - Clcik on the "Settings" tab and scroll down to the GitHub Pages section
-    * Step 10 - Click on the dropdown box under Source
-    * Step 11 - Select master branch and click save
+    * Step 10 - Click on the dropdown box under "Source"
+    * Step 11 - Select "master branch" and click save
+    * Step 12 - There will be the following message in a green box in the GitHub Pages section: Your site is published at...
+    * Step 13 - Clicking on that link will take you to your live site
+    * Step 14 - Click on the "Code" tab
+    * Step 15 - Click on index.html
+    * Step 16 - Click on the pencil icon
+    
+    
+    
