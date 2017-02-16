@@ -1,3 +1,8 @@
+#Sylvester Mobley
+#smobley@codedbykids.com
+#215-600-3405 ext. 700
+#267-809-1539
+
 #### Section 1: An Overview of Coding
   1. Basic terminology and concepts
   2. What is coding?
