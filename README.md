@@ -1,6 +1,11 @@
 #### Section 1: An Overview of Coding
   1. Basic terminology and concepts
-  2. What is coding?
+    1. Website - A website displays information on the internet that can't be changed unless the source code of the site is changed. Because the information that is displayed on a website is not updateable without changing the code websites are called static. 
+    2. Application - An application performs a function. Applications are able to process information, allow users to input data, and are able to change content and data without changing the application's source code. Applications can be mobile, web based or desktop.
+    3. App - App is shorthand for application. 
+    4. Front-end - The front-end of an application is everything that you can see and interact with.
+    5. Back-end - The back-end of an application is the machine that makes the application work, but you don’t see.
+  2. What is coding? 
   3. Where do you find code?
   4. Who uses code?
   5. Why is coding important?
