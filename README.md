@@ -1,8 +1,3 @@
-#Sylvester Mobley
-#smobley@codedbykids.com
-#215-600-3405 ext. 700
-#267-809-1539
-
 #### Section 1: An Overview of Coding
   1. Basic terminology and concepts
   2. What is coding?
@@ -101,9 +96,10 @@
     * Step 11 - Select "master branch" and click save
     * Step 12 - There will be the following message in a green box in the GitHub Pages section: Your site is published at...
     * Step 13 - Clicking on that link will take you to your live site
-    * Step 14 - Click on the "Code" tab
-    * Step 15 - Click on index.html
-    * Step 16 - Click on the pencil icon
-    
+
+###Sylvester Mobley
+###smobley@codedbykids.com
+###215-600-3405 ext. 700
+###267-809-1539    
     
     
